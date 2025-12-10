@@ -2,8 +2,12 @@ kivy_venv/
 .venv/
 env/
 venv/
+*.pyc
+
 
 __pycache__/
+dist/
+build/
 *.pyd
 *.dll
 
